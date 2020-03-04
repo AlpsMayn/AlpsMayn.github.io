@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlpsMayn.github.io</id>
     <title>飞流直下三千尺</title>
-    <updated>2020-03-04T14:17:35.172Z</updated>
+    <updated>2020-03-04T15:11:30.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlpsMayn.github.io"/>
     <link rel="self" href="https://AlpsMayn.github.io/atom.xml"/>
@@ -10,4 +10,69 @@
     <logo>https://AlpsMayn.github.io/images/avatar.png</logo>
     <icon>https://AlpsMayn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 飞流直下三千尺</rights>
+    <entry>
+        <title type="html"><![CDATA[爆炒土豆丝]]></title>
+        <id>https://AlpsMayn.github.io/post/chao-tu-dou-si/</id>
+        <link href="https://AlpsMayn.github.io/post/chao-tu-dou-si/">
+        </link>
+        <updated>2020-03-04T14:21:06.000Z</updated>
+        <content type="html"><![CDATA[<p>土豆是超市中很常见的食材，含有丰富的蛋白质和维生素，<s>而且还被某知名游戏公司用来当服务器</s><br>
+<code>谁还没吃过服务器呢？😏</code></p>
+<h2 id="素材准备">素材准备：</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">食材</th>
+<th style="text-align:center">量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">大蒜</td>
+<td style="text-align:center">3~4瓣</td>
+</tr>
+<tr>
+<td style="text-align:center">干红辣椒</td>
+<td style="text-align:center">2~3个</td>
+</tr>
+<tr>
+<td style="text-align:center">土豆</td>
+<td style="text-align:center">适量（单人1~2个）</td>
+</tr>
+<tr>
+<td style="text-align:center">盐</td>
+<td style="text-align:center">适量</td>
+</tr>
+<tr>
+<td style="text-align:center">醋</td>
+<td style="text-align:center">1/3勺</td>
+</tr>
+<tr>
+<td style="text-align:center">耗油</td>
+<td style="text-align:center">一底勺</td>
+</tr>
+<tr>
+<td style="text-align:center">食用油</td>
+<td style="text-align:center">适量</td>
+</tr>
+</tbody>
+</table>
+<h2 id="食材处理">食材处理：</h2>
+<ol>
+<li>大蒜用菜刀拍（按）碎然后切丁</li>
+<li>干红辣椒拔掉尾巴切成丝（或者不动）</li>
+<li>土豆切丝，冲泡一次之后放水里泡着（去除淀粉），下锅前沥干</li>
+</ol>
+<h2 id="步骤">步骤：</h2>
+<ol>
+<li>点火热锅</li>
+<li>待锅烧热后倒入食用油，摇晃均匀</li>
+<li>摇晃均匀后，将火稍微调小，将蒜丁和干红辣椒倒入锅中爆锅</li>
+<li>待闻到蒜和辣椒的香味（或者快糊了的时候）倒入土豆丝翻炒</li>
+<li>待土豆丝断生后，调至小火，放入盐、醋和耗油，之后调回中火，继续翻炒</li>
+<li>待调味料翻炒均匀后即可出锅</li>
+</ol>
+<p>超简单，而且很好吃！</p>
+]]></content>
+    </entry>
 </feed>
